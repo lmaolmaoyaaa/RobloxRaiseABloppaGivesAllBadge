@@ -1,0 +1,48 @@
+local args = {
+    [1] = 2126549207 -- Badge ID, gives you the Sad Ending
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+local args = {
+    [1] = 2126252196 -- Badge ID, gives you the Ascension Ending
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+local args = {
+    [1] = 212625215 -- Badge ID, gives you "You Let Bloppa Explode"
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+local args = {
+    [1] = 2126252161 -- Badge ID, gives you the Entreprenur
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+
+local args = {
+    [1] = 2126252167 -- Badge ID, gives you Carlos Plushie
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+local args = {
+    [1] = 2126264854 -- Badge ID, gives you Terrible Landlord
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+local args = {
+    [1] = 2126252190 -- Badge ID, gives you Carl Is Here
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
+
+local args = {
+    [1] = 2126252185 -- Badge ID, gives you The Outside World
+}
+
+game:GetService("ReplicatedStorage").Remotes.RequestBadge:FireServer(unpack(args))
